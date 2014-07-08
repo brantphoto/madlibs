@@ -1,4 +1,7 @@
+#this function is currently not in working state -Brant 
+
 def startgame
+
 
   question = "\nWould you like to start a new game? Y/N"
   puts question

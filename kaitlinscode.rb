@@ -1,3 +1,5 @@
+#note: this code is from an old program and is only for our reference. 
+
 $user_name = "" #sets user name outside so that each round it doesnt have to be reset by user
 $game_counter = 0
 

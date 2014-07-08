@@ -1,3 +1,5 @@
+#this program, which is a madlim game, is not complete and does not work
+
 require "wordnik"
 
 class Madlib_session
